@@ -20,9 +20,6 @@ pytest-cov==3.0.0
 pytest-mock==3.7.0
 coverage==6.4.1
 opencensus==0.9.0
-opencensus-context==0.1.2
-opencensus-ext-azure==1.1.4
-opencensus-ext-requests==0.7.6
 requests==2.27.1
 tzlocal==2.1
 aiohttp==3.8.1
@@ -31,7 +28,5 @@ anyio==3.6.1
 asyncio==3.4.3
 multidict==6.0.2
 nest-asyncio==1.5.5
-chubb-ai-toolbox @ https://nausp-aapp0001.aceins.com/advanced-analytics/global-ai-api-common-lib/archive/v2.0.2.tar.gz
-werkzeug
 setuptools==65.1.1
 PyMuPDF==1.20.2
